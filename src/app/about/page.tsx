@@ -44,7 +44,7 @@ export default function AboutPage() {
       ======================================== */}
       <section className="relative min-h-[70vh] overflow-hidden bg-black">
         <img
-          src="/images/ktm-momo-house-hero.jpg"
+          src="/images/Ktm-momo-house-hero.jpg"
           alt="KTM Momo House"
           className="absolute inset-0 h-full w-full object-cover"
         />
